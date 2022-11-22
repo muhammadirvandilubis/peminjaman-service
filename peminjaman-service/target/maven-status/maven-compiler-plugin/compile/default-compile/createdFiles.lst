@@ -1,0 +1,7 @@
+com\vandi\peminjaman\service\VO\ResponseTemplateVO.class
+com\vandi\peminjaman\service\entity\Peminjaman.class
+com\vandi\peminjaman\service\repository\PeminjamanRepository.class
+com\vandi\peminjaman\service\service\PeminjamanService.class
+com\vandi\peminjaman\service\VO\Anggota.class
+com\vandi\peminjaman\service\PeminjamanServiceApplication.class
+com\vandi\peminjaman\service\controller\PeminjamanController.class
